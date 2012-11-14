@@ -1,3 +1,5 @@
-comp 1950 git file
+comp 1950 git lecture
 
-first file in repository, yah!
+first file in repo, yah!
+
+it's Tuesday night
